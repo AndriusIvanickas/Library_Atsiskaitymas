@@ -1,6 +1,11 @@
 # Library_Atsiskaitymas
 Testo darbas, Library
 
+Klasės       Savybės
+Library      name(get, set)
+Department   name(get, set)   numberOfPublications (get, set)
+Edition      name (get, set)   author(get, set)   yearOfPublication (get, set)
+
 Testo reikalavimai:
 Reikia suformuoti leidinio tekstinį aprašymą tokia forma:
 knygai: Autorius: <author>
